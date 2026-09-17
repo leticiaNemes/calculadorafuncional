@@ -1,0 +1,51 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+#card{
+    width: 60%;
+    background-color: azure;
+    margin: 0 auto;
+    border-radius: 15px;
+    padding: 80px;
+
+}
+#titulo{
+    color: blue;
+}
+input{
+    border-radius: 15px;
+    font-family: x-large;
+}
+#inupt{
+    display: flex;
+    flex-direction: column;
+    gap: 25px
+    ;
+}
+#somar{
+    background-color: brown;
+    padding: 15px;
+font-size: xx-large;
+}
+#subtrair{
+    background-color: rgb(46, 165, 42);
+    padding: 15px;
+    font-size: xx-large;
+}
+#multiplicar{
+    background-color: rgb(151, 42, 165);
+    padding: 15px;
+    font-size: xx-large;
+}
+#dividir{
+    background-color: rgb(133, 10, 92);
+    padding: 15px;
+    font-size: xx-large;
+}
+#botao{
+    margin-top: 25px;
+    display: flex;
+    flex-direction: row;
+   gap: 40px;
+}
