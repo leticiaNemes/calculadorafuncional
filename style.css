@@ -47,7 +47,7 @@ font-size: xx-large;
     margin-top: 25px;
     display: flex;
     flex-direction: row;
-   gap: 40px;
+  justify-content: space-around;
 }
 p{
     font-size: xx-large;
