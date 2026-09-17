@@ -49,3 +49,6 @@ font-size: xx-large;
     flex-direction: row;
    gap: 40px;
 }
+p{
+    font-size: xx-large;
+}
